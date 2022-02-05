@@ -4,6 +4,6 @@ import org.junit.*;
 public class SDTest {
     @Test
     public void test() {
-        assertEquals("Hi", SD.sd());
+        assertEquals("Hello", SD.sd());
     }
 }
